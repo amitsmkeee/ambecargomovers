@@ -1,0 +1,196 @@
+Uri: http://www.ambecargomovers.com/
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\index.htm
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://www.ambecargomovers.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\css\style.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,300,600,700,800
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\css.css
+Content Type: text/css
+
+Uri: http://www.ambecargomovers.com/Index.aspx
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\Index.aspx.html
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/About.aspx
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\About.aspx.html
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/Services.aspx
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\Services.aspx.html
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/Enquiry.aspx
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\Enquiry.aspx.html
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/Contact.aspx
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\Contact.aspx.html
+Content Type: text/html
+
+Uri: http://www.ambecargomovers.com/js/jquery-1.8.3.min.js
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\js\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: http://www.ambecargomovers.com/js/move-top.js
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\js\move-top.js
+Content Type: application/javascript
+
+Uri: http://www.ambecargomovers.com/images/logo.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/hmeimg1.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\hmeimg1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/f1.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\f1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/f2.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\f2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/f3.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\f3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/bg.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/arrow.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\arrow.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/slide.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\slide.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/arrows.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\arrows.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/plus.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\plus.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/minus.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\minus.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/team-bg.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\team-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/date.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\date.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/user.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\user.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/tag.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\tag.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/search-icon2.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\search-icon2.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/bottom-icons.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\bottom-icons.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/footer-icons.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\footer-icons.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/move-up.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\move-up.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/menu-icon.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\menu-icon.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/about-bg.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/js/jquery.wmuSlider.js
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\js\jquery.wmuSlider.js
+Content Type: application/javascript
+
+Uri: http://www.ambecargomovers.com/css/popuo-box.css
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\css\popuo-box.css
+Content Type: text/css
+
+Uri: http://www.ambecargomovers.com/images/se1.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/icon-eye.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\icon-eye.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/images/se2.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se3.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se4.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se5.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se6.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se7.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se8.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/se9.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\se9.png
+Content Type: image/png
+
+Uri: http://www.ambecargomovers.com/js/modernizr.custom.min.js
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\js\modernizr.custom.min.js
+Content Type: application/javascript
+
+Uri: http://www.ambecargomovers.com/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: http://www.ambecargomovers.com/images/2.jpg
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ambecargomovers.com/images/stairs.png
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\images\stairs.png
+Content Type: image/png
+
+Uri: https://kblues.com/
+File Name: C:\Downloaded Web Sites\www.ambecargomovers.com\index-1.htm
+Content Type: text/html
+
